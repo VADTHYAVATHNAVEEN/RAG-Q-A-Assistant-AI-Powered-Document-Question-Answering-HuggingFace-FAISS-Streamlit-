@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+numpy
+PyPDF2
+python-docx
+huggingface_hub
+sentence-transformers
+langchain
+langchain-community
+requests
+tqdm
